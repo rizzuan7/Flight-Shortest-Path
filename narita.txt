@@ -1,0 +1,158 @@
+Generally speaking, airlines are required to provide assistance to passengers with a disability as they navigate through  the key function areas of an airport. It includes getting them to the gate location of their flight and to ticket counters, baggage claim, and  vehicle pickup locations.   
+
+Addressing that issue, Japan’s  All Nippon Airways (ANA)  and  Panasonic  announced they will work together to test a new generation of self-driving electric wheelchairs, as part of a plan to increase mobility and accessibility options at Tokyo Narita International Airport.   
+
+Since Narita Airport is an international hub, many travelers must walk a long distance to reach their connecting flights on time. The airport's size and high volume of activity can make this inconvenient, and this difficulty is only compounded for elderly travelers with mobility issues. To meet these demands and keep Narita Airport operating at a high level, especially in light of the upcoming 2020 Summer Olympics in Tokyo, ANA and Panasonic are teaming to run trials on new electric wheelchairs with tracking capabilities that allow them to navigate the bustling airport.  
+
+"Narita Airport is a gateway to Japan for millions of travelers every year and we seek to partner with other leading Japanese innovators to make sure that arrival, departure and making connections are all as convenient as possible," says Juichi Hirasawa, Senior Vice President of ANA. "ANA's partnership with Panasonic will make Narita Airport more welcoming and accessible, both of which are crucial to maintaining the airport's status as a hub for international travel in the years to come.”  
+
+These wheelchairs will be capable of safely navigating through the airport independently. Jointly developed by Panasonic and  WHILL Co. Ltd. , the wheelchairs are able to detect and avoid and obstacles on the way to their destinations.  Front- and rear-mounted cameras and sensors provide wide angle visibility and obstacle detection.   
+
+[Image: Self-Driving-Electric-Wheelchairs_web.png]    
+
+ANA is taking a “wagon train” approach to transporting passengers around Narita Airport via self-driving wheelchairs.  
+
+Pre-collected map data is compared against current driving situations to create the safest and optimal route for the rider. In the event an object unsafely enters its pathway, an auto-stop function will prevent a collision. For further assurance of safety at Narita, the self-driving electric wheelchairs will operate by following a predetermined leader to a common destination (see figure), and ANA staff will be on hand to serve as guides.   
+
+Wheels Go Multiple Ways  
+
+The omnidirectional wheel is one of the more interesting technological features of WHILL’s Personal EVs, which can travel up to 12 miles indoors or outdoors between charges, run at up to 5 mph, and climb obstacles up to two inches in height. Omnidirectional wheels roll forward like normal wheels, but also can slide sideways without skidding during turns. Conventional omnidirectional wheel technology was invented for vehicles such as forklifts. However, according to WHILL, it hasn’t been applied effectively for wheelchairs and mobility devices due to several design flaws in previous implementations.    
+
+The omnidirectional front wheels engineered by WHILL use 24 small rollers that collectively create one large wheel. The rollers all move individually, allowing the EV wheelchair to glide sideways and achieve a tighter turning radius, while simultaneously providing greater terrain coverage.    
+
+The fact that omni-wheels don’t need to swivel eliminates the dangers and difficulty often found using swiveling casters. Casters need additional room to rotate before changing direction; as they rotate, they can get stuck against walls and obstacles. They can also get tangled up in a user’s feet as they rotate, causing injury.   
+
+Wheelchairs   assist people with disabilities to become productive members of their communities.   Over 3 million Americans rely on wheelchairs to get around, and globally, s  ome 65 million people have disabilities that require a wheelchair, according to World Heath Organization statistics.  
+
+Initially, WHILL is aiming for commercialization at airports and commercial facilities. Then the hope is to integrate the technology and devicees at major tourist attractions and pedestrian thoroughfares.  
+
+The long-term vision of WHILL is to allow people to summon its wheelchairs via a smartphone app in locations such as theme parks, museums, hospitals, shopping malls, airports, and city centers. Once summoned and when the rider is properly seated, the person could then tell the wheelchair where to go, and be driven there autonomously.  An iPhone or Android app would also be used to lock/unlock the vehicle to keep it secure, and to select a drive mode that’s right for the rider. Afterwards, the wheelchair would return to its docking station to recharge.  
+
+
+
+All Nippon Airways has launched Japan’s first commercial service employing an Airbus SAS A380, the world’s largest passenger plane, on its Narita to Honolulu route.
+
+The 520-seat double-decker jet will initially make three round trips per week on Tuesdays, Fridays and Sundays departing from Narita airport, near Tokyo, with the number increasing to 10 round trips per week from July 1 after a second A380 starts operating in June, according to ANA. It made its first trip Friday.
+
+
+The airline is planning to eventually operate three A380 aircraft. The plane, with a livery featuring Hawaiian Honu sea turtles, has “an overwhelming presence,” said ANA Holdings Inc. President and CEO Shinya Katanozaka.
+
+The aircraft, 72.7 meters long and 24.1 meters high with a wingspan of 79.8 meters, is the first four-engine passenger jet introduced in Japan since the Boeing 747 jumbo jet. The A380 has twice as many seats as the Boeing 787s currently used on ANA’s cash-cow Honolulu routes.
+
+“It is a complicated but well-made plane equipped with multiple safety systems. I hope passengers will feel (the atmosphere of) Hawaii on board,” said Osamu Furukawa, a 55-year-old ANA captain and pilot instructor.
+
+ANA’s first A380 aircraft arrived at Narita airport in Chiba Prefecture from France on March 21, and the second one arrived earlier this month. The first one is called the Sky Blue Flying Honu and the second one is named the Emerald Green Flying Honu, based on the color of their exterior.
+
+With the launch of the A380 service, ANA aims to increase its share of flights connecting Honolulu and its home market. It currently ranks third after Japan Airlines and Hawaiian Airlines. The new aircraft features “COUCHii seats” that can be used as beds, a bar lounge and a room for changing clothes and breastfeeding.
+
+In 2018, 1.57 million Japanese visited Hawaii by air, according to the Hawaii Tourism Authority.
+
+Furukawa, who had prepared for the launch of the A380 service since 2016, said before the inaugural flight he felt the aircraft was “heavy.”
+
+He and the other A380 pilots have previously flown the smaller A320. “Even though there are commonalities, we need to study a lot” about operation of the A380, Furukawa said. ANA began training flights for the A380 in April.
+
+Generally, larger aircraft require longer runways for takeoffs and landings, and the A380 needs a runway of around 2,500 meters. That means only a limited number of airports can handle emergency landings of the aircraft during long-distance international flights.
+
+The aircraft have been designed on a fail-safe principle: If one system fails another will take over so that safety is not jeopardized. The planes have backup computers, electrical and hydraulic systems, as well as multiple braking systems. When on the ground, the aircraft utilize a number of cameras to cover blind spots for pilots.
+
+Singapore Airlines was the first carrier to begin commercial operation of an A380 in 2007 and there were about 230 in use by airlines around the world as of late April.
+
+However, the European aircraft manufacturer said in February it will stop manufacturing the A380 due to slumping orders, with the last one scheduled to be delivered in 2021.
+
+ANA Holdings chief Katanozaka said Airbus has assured the airline that its supply of aircraft components and backup services will not be affected, but industry sources have expressed concerns that it will become difficult to secure A380 parts in the long term.
+
+Twitter
+Facebook  
+LinkedIn
+LATEST BUSINESS STORIES
+[Image: Sharp Corp. Chairman and President Tai Jeng-wu says he will remain as chairman of the Japanese electronics company until fiscal 2021.]  
+Taiwan's Tai Jeng-wu to remain as Sharp chairman until 2021
+Sharp Corp. Chairman and President Tai Jeng-wu says he will remain chairman of the Japanese electronics firm until fiscal 2021. Speaking to reporters, Tai said Monday he wants to hand ov...
+[Image: Hitotsubashi University professor Kunio Ito, one of the founders of a consortium launched Monday that will facilitate climate-related information disclosures by companies, delivers a speech during an event in Tokyo.]  
+New consortium to accelerate climate-related corporate disclosures in Japan
+A consortium designed to facilitate corporate information disclosures on climate change was launched Monday — a move aimed at encouraging financial institutions to make investments based on climate...
+[Image: European flags blow in front of the European Central Bank as the sun rises in Frankfurt on Sunday.]  
+Failing to hire women, ECB extends supervision board job deadline: sources
+The European Central Bank has extended a deadline for filling three top jobs at its bank supervision arm after it failed to hire any women for the roles, two sources said, illustrating the bank's l...
+PHOTOS
+
+
+
+Two workers at Narita airport near Tokyo are confirmed to have been infected with measles, the local government said Tuesday, warning about the risk of possible exposure to the highly contagious virus at one of the busiest airports in Japan.
+
+The local government of Chiba Prefecture where the airport is located said a male worker in his 30s fell ill with a fever of 39 C on Tuesday last week.
+
+He worked in the Terminal 2 building from 7 a.m. to 10:30 p.m. the previous day, 2 p.m. to 10:30 p.m. last Wednesday and 6 a.m. to 6:30 p.m. last Friday. He was diagnosed with measles on Sunday.
+
+The government said he had interacted with a number of people on those days though it did not disclose what service he had engaged in. The original source of the infection has yet to be determined.
+
+Another worker, a teenage woman, became sick on April 20 but did not go into work and is not believed to have spread the virus.
+
+The U.N. Children's Fund said last month that measles cases are surging globally and pose a serious threat to children.
+
+Japan was declared measles-free by the World Health Organization in 2015 but over 200 cases of infection have been reported this year after an outbreak of the disease in Okinawa Prefecture and some other regions last year.
+
+Medical experts say infections increased in line with a surge in foreign tourists.
+
+(File photo of Narita airport Terminal 2 building)
+
+Narita International Airport employs about 43,000 people, and services approximately 118,000 customers daily. The airport had been experiencing a rush of travelers flying overseas ahead of the 10-day Golden Week holiday starting last Saturday.
+
+Measles is spread by contact with an infected person's nasal secretions or saliva, with symptoms including fever and rash. The virus has an incubation period of 10 to 12 days.
+
+Apr 30, 2019 | KYODO NEWS
+
+
+
+An earthquake with an estimated magnitude of 5.1 rattled parts of Tokyo and its vicinity on Saturday, about two hours before U.S. President Donald Trump's arrival on a four-day visit as a state guest, but no tsunami warning was issued, the weather agency said.
+
+The epicenter of the quake, which occurred at 3:20 p.m. at a depth of 38 kilometers, was southern Chiba Prefecture, the agency said. It is right around the area where Trump is scheduled to play golf with Prime Minister Shinzo Abe on Sunday.
+
+The quake at the most registered a lower 5 on the Japanese seismic intensity scale of 7 in Chonan, a town about 60 kilometers southeast of Tokyo and just next to the city of Mobara where the two leaders' golf venue is located.
+
+"There were two shocks and they shook vertically," Harue Yasuda, 76, a shopkeeper in the town said. "I told about five or six customers at the shop at the time to go outside immediately to evacuate. A couple of light bottles fell from a shelf."
+
+The Japan Meteorological Agency warned that a quake with about the same intensity could hit the areas over the next week or so.
+
+It registered 4 on the intensity scale in some other parts of the prefecture, as well as Chuo Ward in central Tokyo.
+
+The government set up an emergency unit at the prime minister's office to gather information. But so far there have been no reports of major damage.
+
+An 84-year-old woman was injured after she fell at her home in the city of Chiba, according to a local fire department.
+
+No flights to or from Narita international airport in the prefecture were affected by the quake, according to the transport ministry's local office.
+
+Some bullet train services were temporarily suspended and trains on local lines were partially delayed, according to operators.
+
+
+
+Tokyo:  Japan Airlines has grounded another one of its Dreamliner jets after "white smoke" was seen outside the cockpit window during maintenance, a year after the aircraft suffered a months-long global grounding over battery problems.
+
+The carrier said that a technician at Tokyo's Narita airport, who was working on the parked plane before its departure to Bangkok Tuesday afternoon, first noticed what appeared to be smoke outside the cockpit window and then a battery system warning.
+
+An investigation found that one of the eight lithium-ion cells in the plane's battery system had leaked, but its safety valve, which is designed to release excessive pressure, was properly open.
+
+"The temperature of the cell was high. We believe it caused 'white smoke', which could be smoke or vapour," a JAL spokesman said.
+
+The airline said it replaced the grounded plane with another Dreamliner, which left as scheduled, carrying 169 passengers and crew.
+
+"We are making sure of the safety of every plane before its departure. We will continue regular flights (with Dreamliners)," said a separate JAL spokesman, Norihisa Hanyu.
+
+In response to the incident on Tuesday, US-based Boeing said the "improvements made to the 787 battery system last year appear to have worked as designed".
+
+Boeing admitted in April that despite months of testing it did not know the root cause of the battery problems, but rolled out modifications it said would ensure the issue did not recur.
+
+The measures comprised redesigning the battery and charger system and adding a steel box to prevent burning.
+
+Since then, Dreamliners have experienced a series of minor glitches, including a fault with an air pressure sensor and the brake system.
+
+In October, unflushable toilets caused JAL pilots to turn their plane around just after it left Moscow bound for Tokyo.
+
+JAL's domestic rival All Nippon Airways (ANA) also said Wednesday it would continue flying the plane -- the pair are the aircraft's two biggest customers and have invested heavily in its success.
+
+ 
+The incident was the latest for the Dreamliner since the trouble-plagued aircraft returned to service in the middle of last year following a months-long worldwide grounding.
+NDTV Beeps - your daily newsletter
+Stop it! Japan Anti-Groper App Becomes Smash Hit
+Austria's Chancellor Sebastian Kurz Loses No-Confidence Showdown
+Trending
